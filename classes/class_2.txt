@@ -1,0 +1,10 @@
+Payment Page
+Attributes
+- Payment types (Array)
+- Amount Owed (Float)
+- Items in Cart (Integer)
+- User payment info
+
+Method
+
+Make payment (Subtract amount owed from user's desired payment method + payment info)

@@ -1,0 +1,9 @@
+Log In
+Attributes
+  User name (String)
+  Password (String)
+  Number of allowed failed log in attempts (integer)
+
+  Methods
+  Is login successful (Evaluate truth of username + truth of password)
+  If login incorrect (add -1 to allowed login attempts)
