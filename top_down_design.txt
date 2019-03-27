@@ -1,0 +1,19 @@
+- Decide what to eat
+  - Read Menu
+  - Pick food
+      - Pick an appetizer
+      - Pick an Entree
+- Order
+  - Tell the Waiter what you want to eat
+    - Tell the waiter which entree you want
+    - Tell the waiter which appetizer you want
+
+- Pay
+  - Put money in the bill that waiter brings you
+    - Pay money for food
+    - Pay 20 % extra for tip
+  - Sign Name for credit
+    - Write name at the bottom of the bill
+  - Get Change for cash
+    - Collect extra money after tip
+  
