@@ -1,0 +1,11 @@
+Restaurants
+
+Attributes
+  - List of Restaurants (Array)
+  - Number of Restaurants (Integer)
+  - Restaurant hours (String)
+
+  Methods
+  - Is Restaurant Open? (Takes list of restaurants and restaurant hours and
+  current time to give result )
+  - Add restaurant to app (restaurant list + new restaurant)
