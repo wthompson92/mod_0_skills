@@ -5,5 +5,6 @@ Attributes
   Number of allowed failed log in attempts (integer)
 
   Methods
-  Is login successful (Evaluate truth of username + truth of password)
-  If login incorrect (add -1 to allowed login attempts)
+  Is username entered correctly (Username on file matches input))
+Is password entered correctly? (password input  matches on file)
+  Is login incorrect (add -1 to allowed login attempts)
