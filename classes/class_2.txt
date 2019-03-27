@@ -2,9 +2,14 @@ Payment Page
 Attributes
 - Payment types (Array)
 - Amount Owed (Float)
+- Price Per Item Owed (Float)
 - Items in Cart (Integer)
 - User payment info
 
 Method
 
 Make payment (Subtract amount owed from user's desired payment method + payment info)
+Make payment (Subtract amount owed from user's desired payment method + payment
+info)
+Receive payment info  (Combine payment type with payment user info)
+Calculate total (Items in Cart * Price per Item)
